@@ -15,6 +15,9 @@ namespace Proyecto1
         {
             if (espaciosDisponibles >0)
             {
+                vehiculos.Add(vehiculos)
+                    espaciosDisponibles--;
+                Console.WriteLine("Vehiculo registrado correctamente");
 
             }
         }
